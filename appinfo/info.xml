@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+	<id>gpstracking</id>
+	<name>GPS Tracking</name>
+	<description>Tracks your GPS location based on the tracking provided by the Android Application OSMAnd</description>
+	<version>1.0</version>
+	<licence>AGPL</licence>
+	<author>Jack "David" Baucum</author>
+	<require>6</require>
+	<types>
+		<logging/>
+	</types>
+	<public><file id="gpstracking"></file></public>
+</info>
